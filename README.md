@@ -4,9 +4,9 @@ Summary:
 Experienced programmer with over 20 years of experience in Java, Python, and five other common programming languages. Skilled in problem-solving and finding creative solutions to complex coding challenges.
 
 Work Experience:
-- Senior Software Engineer, XYZ Company (2022-present)
-- Lead Developer, ABC Corporation (2015-2022)
-- Software Developer, DEF Inc. (2010-2015)
+- Senior Software Engineer, Google Company (2022-present)
+- Lead Developer, Apple (2015-2022)
+- Software Developer, Maxi Inc. (2010-2015)
 
 Education:
 - Bachelor's degree in Computer Science, University of Technology (2000-2004)
